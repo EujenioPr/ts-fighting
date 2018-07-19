@@ -1,6 +1,6 @@
 # TS fighting
 
-## Instalation
+## Installation:
 ```
 - npm install
 - npm run start

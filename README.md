@@ -1,5 +1,4 @@
-## ts-bsa-2017
-TypeScript project for BSA-2017
+# TS fighting
 
 ## Instalation
 npm install<br />

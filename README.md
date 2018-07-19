@@ -1,6 +1,8 @@
 # TS fighting
 
 ## Instalation
-npm install<br />
-npm run start<br />
-localhost:4040
+```
+- npm install
+- npm run start
+- localhost:4040
+```

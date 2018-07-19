@@ -1,0 +1,31 @@
+body {
+    background-color: #333;
+  }
+  
+  .wrapper {
+    width: 80%;
+    height: auto;
+    background-color: #f1f1f1;
+    padding: 2% 4%;
+    margin: 2% auto;
+    text-align: center;
+    font-family: "Trebuchet MS", "Arial", "Tahoma";
+    border-radius: 3px;
+  }
+  
+  h3 {
+    font-size: 15px;
+    font-weight: 100;
+    text-decoration: underline;
+  }
+  
+  .spoiler {
+    background-color: #e8e8e8;
+    border-radius: 3px;
+    padding: 2px;
+  }
+  
+  p {
+    font-size: 14px;
+  }
+  
